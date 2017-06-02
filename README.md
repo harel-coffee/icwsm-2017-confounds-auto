@@ -9,6 +9,6 @@ Full paper: https://arxiv.org/abs/1703.01671
 ## Install
 
 - Clone the repository.
-- Download the replication data ... at and extract it in the `data` directory.
+- Download the __[replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FMBNHKY)__ and extract it in the `data` directory.
 - Install the requirements using `pip install -r requirements.txt`.
 - Run `jupyter notebook` and open `Reproducibility.ipynb`.
